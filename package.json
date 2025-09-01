@@ -70,7 +70,7 @@
     "react-responsive": "8.2.0",
     "react-router-dom": "5.1.2",
     "react-select": "4.3.1",
-    "react-spring": "v8.0",
+    "react-spring": "10.0.1",
     "react-transition-group": "4.0.0",
     "recharts": "1.8.5",
     "redux": "4.0.5",
