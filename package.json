@@ -60,7 +60,7 @@
     "ramda": "0.27.2",
     "rc-slider": "8.6.5",
     "rc-steps": "3.5.0",
-    "react": "17.0.2",
+    "react": "19.1.1",
     "react-content-loader": "5.1.4",
     "react-copy-to-clipboard": "5.0.3",
     "react-dom": "17.0.2",
